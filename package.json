@@ -1,0 +1,25 @@
+{
+  "name": "shopnode",
+  "version": "1.0.0",
+  "description": "Shop cart using node.js",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prabhat-git-99/shoping-card-node-js.git"
+  },
+  "author": "Prabhat Kumar Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prabhat-git-99/shoping-card-node-js/issues"
+  },
+  "homepage": "https://github.com/Prabhat-git-99/shoping-card-node-js#readme"
+}
